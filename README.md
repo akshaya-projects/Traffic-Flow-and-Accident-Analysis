@@ -1,15 +1,21 @@
 🚦 Traffic Flow and Accident Analysis
+
 This mini project focuses on analyzing traffic flow and accident data using Python for data cleaning and analysis, and Power BI for dashboard visualization.
 
+
 📌 Project Overview
+
 This project analyzes road traffic accident (RTA) data using Python and Power BI. The goal is to identify patterns, trends, and insights from traffic accidents to support better road safety measures and policy decisions.
+
 
 📂 Dataset
 Source: RTA Dataset (CSV format)
 
 Type: Structured tabular data of traffic accident records
 
+
 🔑 Key Columns (from RTA Dataset)
+
 Time – Time at which the accident occurred
 
 Day_of_week – Day of the week (e.g., Monday, Sunday)
@@ -38,7 +44,9 @@ Cause_of_accident – Reported reason for the accident
 
 Accident_severity – Severity level (e.g., Slight, Serious)
 
+
 🛠️ Technologies Used
+
 Python (Jupyter Notebook – .ipynb)
 
 Libraries: pandas, numpy, matplotlib, seaborn
@@ -49,12 +57,11 @@ Power BI (.pbix)
 
 Used for creating interactive dashboards and visualizations
 
-IDE: Visual Studio Code / Jupyter Notebook
+IDE: Jupyter Notebook
 
-📊 Power BI Dashboard Preview
-(Insert screenshot here after uploading your .png or .jpg image to GitHub)
 
 📈 Key Insights & Visualizations
+
 Weekly and hourly trends in accident occurrences
 
 Top accident-prone areas
@@ -65,8 +72,10 @@ Factors influencing accident rates (weather, lighting, surface, etc.)
 
 Casualty rates by driver demographics
 
+
 🚀 How to Run
 Python Analysis
+
 Clone the repository
 
 Open Traffic_Analysis_Report.ipynb in Jupyter Notebook
@@ -74,11 +83,14 @@ Open Traffic_Analysis_Report.ipynb in Jupyter Notebook
 Run the cells to view data analysis and visualizations
 
 Power BI Dashboard
+
 Open the Power Bi dashboard.pbix file using Power BI Desktop
 
 Explore the interactive dashboard
 
+
 📌 Future Enhancements
+
 Include more regional datasets for broader comparison
 
 Add geospatial analysis with map visuals
